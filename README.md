@@ -1,7 +1,5 @@
 # Calculo-Modulo2
-Perfecto, entonces te lo reescribo como README pero **explicando cada elemento: qué es y para qué se usa**, no solo describiendo superficialmente.
-
-Puedes copiar esto directamente:
+Se uso chatgpt para hacer el readme.md y explicar claramente.
 
 ---
 
